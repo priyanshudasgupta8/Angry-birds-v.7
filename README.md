@@ -1,2 +1,2 @@
-# Angry-birds-v.7
-Addition of trajectory
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
